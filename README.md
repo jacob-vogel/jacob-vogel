@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jacob-vogel
+- 👀 I’m interested in software engineering
+- 🌱 I’m currently learning about data science and database management with SQL
+- 💞️ I’m looking to collaborate on software design projects
+- 📫 Reach out to me at jacob.vogel@western.edu
